@@ -1,0 +1,6 @@
+# Ignore heavy dataset files
+dataset/
+normalised/
+*.tsv
+# Except small outputs if you want them on GitHub (optional):
+# !output/matching_results.tsv
